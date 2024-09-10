@@ -1,4 +1,5 @@
 /Users/ceyhundagli/RiderProjects/Bulky/Bulky.Models/bin/Debug/net8.0/Bulky.Models.deps.json
+/Users/ceyhundagli/RiderProjects/Bulky/Bulky.Models/bin/Debug/net8.0/Bulky.Models.runtimeconfig.json
 /Users/ceyhundagli/RiderProjects/Bulky/Bulky.Models/bin/Debug/net8.0/Bulky.Models.dll
 /Users/ceyhundagli/RiderProjects/Bulky/Bulky.Models/bin/Debug/net8.0/Bulky.Models.pdb
 /Users/ceyhundagli/RiderProjects/Bulky/Bulky.Models/obj/Debug/net8.0/Bulky.Models.GeneratedMSBuildEditorConfig.editorconfig
@@ -9,4 +10,5 @@
 /Users/ceyhundagli/RiderProjects/Bulky/Bulky.Models/obj/Debug/net8.0/Bulky.Models.dll
 /Users/ceyhundagli/RiderProjects/Bulky/Bulky.Models/obj/Debug/net8.0/refint/Bulky.Models.dll
 /Users/ceyhundagli/RiderProjects/Bulky/Bulky.Models/obj/Debug/net8.0/Bulky.Models.pdb
+/Users/ceyhundagli/RiderProjects/Bulky/Bulky.Models/obj/Debug/net8.0/Bulky.Models.genruntimeconfig.cache
 /Users/ceyhundagli/RiderProjects/Bulky/Bulky.Models/obj/Debug/net8.0/ref/Bulky.Models.dll

@@ -2,7 +2,7 @@
   "Files": [
     {
       "Id": "/Users/ceyhundagli/RiderProjects/Bulky/BulkyWeb/obj/Debug/net8.0/scopedcss/projectbundle/BulkyWeb.bundle.scp.css",
-      "PackagePath": "staticwebassets/BulkyWeb.bundle.scp.css"
+      "PackagePath": "staticwebassets/BulkyWeb.qf6jacsasv.bundle.scp.css"
     },
     {
       "Id": "/Users/ceyhundagli/RiderProjects/Bulky/BulkyWeb/wwwroot/css/site.css",
@@ -11,6 +11,54 @@
     {
       "Id": "/Users/ceyhundagli/RiderProjects/Bulky/BulkyWeb/wwwroot/favicon.ico",
       "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/ceyhundagli/RiderProjects/Bulky/BulkyWeb/wwwroot/images/products/product-13/89bfbf8b-e7cc-471e-add2-6e108fad0d2e.jpg",
+      "PackagePath": "staticwebassets/images/products/product-13/89bfbf8b-e7cc-471e-add2-6e108fad0d2e.jpg"
+    },
+    {
+      "Id": "/Users/ceyhundagli/RiderProjects/Bulky/BulkyWeb/wwwroot/images/products/product-2/6233ac17-d7f0-4912-8af5-a841a31ab5e0.jpg",
+      "PackagePath": "staticwebassets/images/products/product-2/6233ac17-d7f0-4912-8af5-a841a31ab5e0.jpg"
+    },
+    {
+      "Id": "/Users/ceyhundagli/RiderProjects/Bulky/BulkyWeb/wwwroot/images/products/product-2/f8c1ac08-ad0f-4e8f-b515-7b1e8d82df1a.jpg",
+      "PackagePath": "staticwebassets/images/products/product-2/f8c1ac08-ad0f-4e8f-b515-7b1e8d82df1a.jpg"
+    },
+    {
+      "Id": "/Users/ceyhundagli/RiderProjects/Bulky/BulkyWeb/wwwroot/images/products/product-3/19b95954-6354-4fd7-bca3-c3dda1de0352.jpg",
+      "PackagePath": "staticwebassets/images/products/product-3/19b95954-6354-4fd7-bca3-c3dda1de0352.jpg"
+    },
+    {
+      "Id": "/Users/ceyhundagli/RiderProjects/Bulky/BulkyWeb/wwwroot/images/products/product-3/d61d2d39-c61d-48fd-b363-7ef6edc14ec8.jpg",
+      "PackagePath": "staticwebassets/images/products/product-3/d61d2d39-c61d-48fd-b363-7ef6edc14ec8.jpg"
+    },
+    {
+      "Id": "/Users/ceyhundagli/RiderProjects/Bulky/BulkyWeb/wwwroot/images/products/product-4/2229d5ae-0a75-48a8-abeb-7d322be1aec7.jpeg",
+      "PackagePath": "staticwebassets/images/products/product-4/2229d5ae-0a75-48a8-abeb-7d322be1aec7.jpeg"
+    },
+    {
+      "Id": "/Users/ceyhundagli/RiderProjects/Bulky/BulkyWeb/wwwroot/images/products/product-4/ea089b1e-ba1d-46f4-a4aa-0c28c17364a9.jpg",
+      "PackagePath": "staticwebassets/images/products/product-4/ea089b1e-ba1d-46f4-a4aa-0c28c17364a9.jpg"
+    },
+    {
+      "Id": "/Users/ceyhundagli/RiderProjects/Bulky/BulkyWeb/wwwroot/images/products/product-5/1fe0a847-d5ca-4e4b-98f8-6a25c3a4f08e.jpg",
+      "PackagePath": "staticwebassets/images/products/product-5/1fe0a847-d5ca-4e4b-98f8-6a25c3a4f08e.jpg"
+    },
+    {
+      "Id": "/Users/ceyhundagli/RiderProjects/Bulky/BulkyWeb/wwwroot/images/products/product-5/d2924018-dd61-4c50-b2db-6f42fb1eb6cd.jpg",
+      "PackagePath": "staticwebassets/images/products/product-5/d2924018-dd61-4c50-b2db-6f42fb1eb6cd.jpg"
+    },
+    {
+      "Id": "/Users/ceyhundagli/RiderProjects/Bulky/BulkyWeb/wwwroot/images/products/product-6/e492e66f-ab52-4df9-aa89-97077135c324.jpg",
+      "PackagePath": "staticwebassets/images/products/product-6/e492e66f-ab52-4df9-aa89-97077135c324.jpg"
+    },
+    {
+      "Id": "/Users/ceyhundagli/RiderProjects/Bulky/BulkyWeb/wwwroot/images/products/product-6/ee688d52-aac5-4b3c-9875-30c01870b89d.jpg",
+      "PackagePath": "staticwebassets/images/products/product-6/ee688d52-aac5-4b3c-9875-30c01870b89d.jpg"
+    },
+    {
+      "Id": "/Users/ceyhundagli/RiderProjects/Bulky/BulkyWeb/wwwroot/js/product.js",
+      "PackagePath": "staticwebassets/js/product.js"
     },
     {
       "Id": "/Users/ceyhundagli/RiderProjects/Bulky/BulkyWeb/wwwroot/js/site.js",
@@ -243,6 +291,10 @@
     {
       "Id": "/Users/ceyhundagli/RiderProjects/Bulky/BulkyWeb/wwwroot/lib/jquery/dist/jquery.min.map",
       "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.BulkyWeb.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
       "Id": "obj/Debug/net8.0/staticwebassets/msbuild.BulkyWeb.Microsoft.AspNetCore.StaticWebAssets.props",

@@ -2,11 +2,11 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BulkyWeb", "BulkyWeb\BulkyWeb.csproj", "{B43B75B1-DEC5-4018-9386-D5BA78568CB7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bulky.DataAccess", "Bulky.DataAccess\Bulky.DataAccess.csproj", "{6EE012A0-F481-4835-AAED-A4A306758DCD}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bulky.Models", "Bulky.Models\Bulky.Models.csproj", "{ADBDF913-0F10-42CD-8636-73E2B3E308E5}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bulky.Utility", "Bulky.Utility\Bulky.Utility.csproj", "{EE413CEB-0CDF-4F98-BC81-44D74452C285}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bulky.DataAccess", "Bulky.DataAccess\Bulky.DataAccess.csproj", "{9E536DDB-1ED8-41FC-BB93-58272E3C5203}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -18,10 +18,6 @@ Global
 		{B43B75B1-DEC5-4018-9386-D5BA78568CB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B43B75B1-DEC5-4018-9386-D5BA78568CB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B43B75B1-DEC5-4018-9386-D5BA78568CB7}.Release|Any CPU.Build.0 = Release|Any CPU
-		{6EE012A0-F481-4835-AAED-A4A306758DCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6EE012A0-F481-4835-AAED-A4A306758DCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6EE012A0-F481-4835-AAED-A4A306758DCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6EE012A0-F481-4835-AAED-A4A306758DCD}.Release|Any CPU.Build.0 = Release|Any CPU
 		{ADBDF913-0F10-42CD-8636-73E2B3E308E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{ADBDF913-0F10-42CD-8636-73E2B3E308E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ADBDF913-0F10-42CD-8636-73E2B3E308E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -30,5 +26,9 @@ Global
 		{EE413CEB-0CDF-4F98-BC81-44D74452C285}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EE413CEB-0CDF-4F98-BC81-44D74452C285}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EE413CEB-0CDF-4F98-BC81-44D74452C285}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E536DDB-1ED8-41FC-BB93-58272E3C5203}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E536DDB-1ED8-41FC-BB93-58272E3C5203}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E536DDB-1ED8-41FC-BB93-58272E3C5203}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E536DDB-1ED8-41FC-BB93-58272E3C5203}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

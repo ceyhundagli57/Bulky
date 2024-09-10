@@ -9,8 +9,9 @@
       "Bulky.DataAccess/1.0.0": {
         "dependencies": {
           "Bulky.Models": "1.0.0",
+          "Bulky.Utility": "1.0.0",
           "Microsoft.EntityFrameworkCore": "9.0.0-preview.1.24081.2",
-          "Microsoft.EntityFrameworkCore.Relational": "9.0.0-preview.1.24081.2",
+          "Microsoft.EntityFrameworkCore.Design": "9.0.0-preview.1.24081.2",
           "Microsoft.EntityFrameworkCore.Tools": "9.0.0-preview.1.24081.2",
           "Pomelo.EntityFrameworkCore.MySql": "9.0.0-preview.1"
         },
@@ -529,14 +530,7 @@
           }
         }
       },
-      "System.IO.Pipelines/6.0.3": {
-        "runtime": {
-          "lib/net6.0/System.IO.Pipelines.dll": {
-            "assemblyVersion": "6.0.0.0",
-            "fileVersion": "6.0.522.21309"
-          }
-        }
-      },
+      "System.IO.Pipelines/6.0.3": {},
       "System.Reflection.Metadata/6.0.1": {
         "dependencies": {
           "System.Collections.Immutable": "6.0.0"
@@ -579,6 +573,14 @@
       "Bulky.Models/1.0.0": {
         "runtime": {
           "Bulky.Models.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Bulky.Utility/1.0.0": {
+        "runtime": {
+          "Bulky.Utility.dll": {
             "assemblyVersion": "1.0.0",
             "fileVersion": "1.0.0.0"
           }
@@ -880,6 +882,11 @@
       "hashPath": "system.threading.channels.6.0.0.nupkg.sha512"
     },
     "Bulky.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Bulky.Utility/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

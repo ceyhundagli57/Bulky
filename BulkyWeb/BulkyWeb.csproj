@@ -4,6 +4,7 @@
         <TargetFramework>net8.0</TargetFramework>
         <Nullable>enable</Nullable>
         <ImplicitUsings>enable</ImplicitUsings>
+
     </PropertyGroup>
 
     <ItemGroup>
@@ -16,37 +17,18 @@
         <PrivateAssets>all</PrivateAssets>
         <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
       </PackageReference>
+      <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="9.0.0-preview.1.24112.3" />
 
         <PackageReference Include="Pomelo.EntityFrameworkCore.MySql" Version="9.0.0-preview.1" />
     </ItemGroup>
-
-    <ItemGroup>
-      <None Remove="Data" />
-      <None Remove="Pages\**" />
-    </ItemGroup>
-
-    <ItemGroup>
-      <Compile Remove="Views\Category\Index.cshtml.cs" />
-      <Compile Remove="Pages\**" />
-    </ItemGroup>
-
-    <ItemGroup>
-      <_ContentIncludedByDefault Remove="Pages\Category\Index.cshtml" />
-      <_ContentIncludedByDefault Remove="Pages\Category\Create.cshtml" />
-    </ItemGroup>
-
-    <ItemGroup>
-      <Content Include="Pages\Category\Create.cshtml" />
-      <Content Remove="Pages\**" />
-    </ItemGroup>
-
-    <ItemGroup>
-      <EmbeddedResource Remove="Pages\**" />
-    </ItemGroup>
-
+  
     <ItemGroup>
       <ProjectReference Include="..\Bulky.DataAccess\Bulky.DataAccess.csproj" />
       <ProjectReference Include="..\Bulky.Models\Bulky.Models.csproj" />
     </ItemGroup>
-
+  
+    <ItemGroup>
+      <Folder Include="wwwroot\images\products\product-12\" />
+      <Folder Include="wwwroot\images\products\product-1\" />
+    </ItemGroup>
 </Project>
