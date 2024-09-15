@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v8.0": {
       "Bulky.Utility/1.0.0": {
         "dependencies": {
+          "Microsoft.AspNetCore.Identity.UI": "9.0.0-preview.1.24081.5",
           "Microsoft.EntityFrameworkCore.Tools": "9.0.0-preview.1.24081.2"
         },
         "runtime": {
@@ -22,6 +23,7 @@
           }
         }
       },
+      "Microsoft.AspNetCore.Identity.UI/9.0.0-preview.1.24081.5": {},
       "Microsoft.Bcl.AsyncInterfaces/6.0.0": {
         "runtime": {
           "lib/netstandard2.1/Microsoft.Bcl.AsyncInterfaces.dll": {
@@ -563,6 +565,13 @@
       "sha512": "sha512-lQKvtaTDOXnoVJ20ibTuSIOf2i0uO0MPbDhd1jm238I+U/2ZnRENj0cktKZhtchBMtCUSRQ5v4xBCUbKNmyVMw==",
       "path": "humanizer.core/2.14.1",
       "hashPath": "humanizer.core.2.14.1.nupkg.sha512"
+    },
+    "Microsoft.AspNetCore.Identity.UI/9.0.0-preview.1.24081.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ZJGWgquD2qacGamSC91uz6kQu7ih0StZ0ou6pYOC7A9bErxT/VH4wndwObDf6AACHHYUQJ1jOZKmVZagsKz4rw==",
+      "path": "microsoft.aspnetcore.identity.ui/9.0.0-preview.1.24081.5",
+      "hashPath": "microsoft.aspnetcore.identity.ui.9.0.0-preview.1.24081.5.nupkg.sha512"
     },
     "Microsoft.Bcl.AsyncInterfaces/6.0.0": {
       "type": "package",
